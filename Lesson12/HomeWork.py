@@ -55,4 +55,3 @@
 #
 # result = my_zip([1], [2, 4, 6])
 # print(result)  # [(1, 2)]
-#Проверяю git§
