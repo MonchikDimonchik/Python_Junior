@@ -58,7 +58,3 @@ while counter < 1:
 #     counter = 0
 #
 # print(list_of_primes)
-
-
-a = 123
-#Привет Андрей
