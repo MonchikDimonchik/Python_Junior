@@ -55,3 +55,5 @@
 #
 # result = my_zip([1], [2, 4, 6])
 # print(result)  # [(1, 2)]
+
+print(type(5))
